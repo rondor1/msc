@@ -1,0 +1,769 @@
+[  892.661854]~DLT~ 1110~INFO     ~FIFO /tmp/dlt cannot be opened. Retrying later...
+1 ---> Init TEST passed
+YUV420sp format
+ Graphic object init done
+8198 -> 84137us
+ Frame arrived in -> 14626us
+8198 -> 1866us
+ Frame arrived in -> 24779us
+8198 -> 1490us
+ Frame arrived in -> 29708us
+8198 -> 1176us
+ Frame arrived in -> 31777us
+8198 -> 1140us
+ Frame arrived in -> 28380us
+8198 -> 1220us
+ Frame arrived in -> 31434us
+8198 -> 1502us
+ Frame arrived in -> 32436us
+8198 -> 1459us
+ Frame arrived in -> 30778us
+8198 -> 1278us
+ Frame arrived in -> 31651us
+8198 -> 1507us
+ Frame arrived in -> 31943us
+8198 -> 1381us
+ Frame arrived in -> 32045us
+8198 -> 1234us
+ Frame arrived in -> 31827us
+8198 -> 1377us
+ Frame arrived in -> 31696us
+8198 -> 1371us
+ Frame arrived in -> 32700us
+8198 -> 1480us
+ Frame arrived in -> 31556us
+8198 -> 1561us
+ Frame arrived in -> 31503us
+8198 -> 1687us
+ Frame arrived in -> 32412us
+8198 -> 1592us
+ Frame arrived in -> 31589us
+8198 -> 1596us
+ Frame arrived in -> 30707us
+8198 -> 1627us
+ Frame arrived in -> 31488us
+8198 -> 1574us
+ Frame arrived in -> 31876us
+8198 -> 1658us
+ Frame arrived in -> 31152us
+8198 -> 1563us
+ Frame arrived in -> 32206us
+8198 -> 1494us
+ Frame arrived in -> 31152us
+8198 -> 1519us
+ Frame arrived in -> 32092us
+8198 -> 1587us
+ Frame arrived in -> 31553us
+8198 -> 1576us
+ Frame arrived in -> 30626us
+8198 -> 1813us
+ Frame arrived in -> 31652us
+8198 -> 3882us
+ Frame arrived in -> 46030us
+8198 -> 15539us
+ Frame arrived in -> 7738us
+8198 -> 5277us
+ Frame arrived in -> 24645us
+8198 -> 3415us
+ Frame arrived in -> 26421us
+8198 -> 3503us
+ Frame arrived in -> 29445us
+8198 -> 2615us
+ Frame arrived in -> 29463us
+8198 -> 2041us
+ Frame arrived in -> 31420us
+8198 -> 1787us
+ Frame arrived in -> 26567us
+8198 -> 6755us
+ Frame arrived in -> 31022us
+8198 -> 1207us
+ Frame arrived in -> 32097us
+8198 -> 1472us
+ Frame arrived in -> 31687us
+8198 -> 1212us
+ Frame arrived in -> 31647us
+8198 -> 1759us
+ Frame arrived in -> 32181us
+8198 -> 1594us
+ Frame arrived in -> 28784us
+8198 -> 1681us
+ Frame arrived in -> 31772us
+8198 -> 1292us
+ Frame arrived in -> 31394us
+8198 -> 1855us
+ Frame arrived in -> 32113us
+8198 -> 1301us
+ Frame arrived in -> 32756us
+8198 -> 2111us
+ Frame arrived in -> 30564us
+8198 -> 1474us
+ Frame arrived in -> 31790us
+8198 -> 1661us
+ Frame arrived in -> 31435us
+8198 -> 1513us
+ Frame arrived in -> 32256us
+8198 -> 3705us
+ Frame arrived in -> 29372us
+8198 -> 1511us
+ Frame arrived in -> 31502us
+8198 -> 1508us
+ Frame arrived in -> 31668us
+8198 -> 1614us
+ Frame arrived in -> 31349us
+8198 -> 1477us
+ Frame arrived in -> 31542us
+8198 -> 3949us
+ Frame arrived in -> 29067us
+8198 -> 3703us
+ Frame arrived in -> 29614us
+8198 -> 5985us
+ Frame arrived in -> 27272us
+8198 -> 1528us
+ Frame arrived in -> 67063us
+8198 -> 5592us
+ Frame arrived in -> 19695us
+8198 -> 5370us
+ Frame arrived in -> 12213us
+8198 -> 3207us
+ Frame arrived in -> 25705us
+8198 -> 3226us
+ Frame arrived in -> 21344us
+8198 -> 3789us
+ Frame arrived in -> 27599us
+8198 -> 5065us
+ Frame arrived in -> 30269us
+8198 -> 3184us
+ Frame arrived in -> 31113us
+8198 -> 5420us
+ Frame arrived in -> 27443us
+8198 -> 1332us
+ Frame arrived in -> 31327us
+8198 -> 3110us
+ Frame arrived in -> 31019us
+8198 -> 2892us
+ Frame arrived in -> 29448us
+8198 -> 3119us
+ Frame arrived in -> 29916us
+8198 -> 2945us
+ Frame arrived in -> 31638us
+8198 -> 2253us
+ Frame arrived in -> 28733us
+8198 -> 1235us
+ Frame arrived in -> 31919us
+8198 -> 1172us
+ Frame arrived in -> 32281us
+8198 -> 1193us
+ Frame arrived in -> 31442us
+8198 -> 1064us
+ Frame arrived in -> 33396us
+8198 -> 1791us
+ Frame arrived in -> 29645us
+8198 -> 1418us
+ Frame arrived in -> 33490us
+8198 -> 2445us
+ Frame arrived in -> 29869us
+8198 -> 1306us
+ Frame arrived in -> 32813us
+8198 -> 1287us
+ Frame arrived in -> 30948us
+8198 -> 1401us
+ Frame arrived in -> 31993us
+8198 -> 1571us
+ Frame arrived in -> 31540us
+8198 -> 1409us
+ Frame arrived in -> 31223us
+8198 -> 7979us
+ Frame arrived in -> 25577us
+8198 -> 1208us
+ Frame arrived in -> 31957us
+8198 -> 1274us
+ Frame arrived in -> 31576us
+8198 -> 1446us
+ Frame arrived in -> 47420us
+8198 -> 21255us
+ Frame arrived in -> 8458us
+8198 -> 2227us
+ Frame arrived in -> 22582us
+8198 -> 1148us
+ Frame arrived in -> 25807us
+8198 -> 2182us
+ Frame arrived in -> 34161us
+8198 -> 1173us
+ Frame arrived in -> 30956us
+8198 -> 1187us
+ Frame arrived in -> 32564us
+8198 -> 1031us
+ Frame arrived in -> 29780us
+8198 -> 4418us
+ Frame arrived in -> 29113us
+8198 -> 4112us
+ Frame arrived in -> 25797us
+8198 -> 7105us
+ Frame arrived in -> 28769us
+8198 -> 4633us
+ Frame arrived in -> 28792us
+8198 -> 4339us
+ Frame arrived in -> 29172us
+8198 -> 4144us
+ Frame arrived in -> 28071us
+8198 -> 6801us
+ Frame arrived in -> 28723us
+8198 -> 1136us
+ Frame arrived in -> 31211us
+8198 -> 3575us
+ Frame arrived in -> 29529us
+8198 -> 3394us
+ Frame arrived in -> 29659us
+8198 -> 3695us
+ Frame arrived in -> 29903us
+8198 -> 3552us
+ Frame arrived in -> 29644us
+8198 -> 2682us
+ Frame arrived in -> 31279us
+8198 -> 1269us
+ Frame arrived in -> 32296us
+8198 -> 1194us
+ Frame arrived in -> 32925us
+8198 -> 1402us
+ Frame arrived in -> 31894us
+8198 -> 1342us
+ Frame arrived in -> 30391us
+8198 -> 1323us
+ Frame arrived in -> 31239us
+8198 -> 1655us
+ Frame arrived in -> 31681us
+8198 -> 3906us
+ Frame arrived in -> 29860us
+8198 -> 1493us
+ Frame arrived in -> 31316us
+8198 -> 1684us
+ Frame arrived in -> 31467us
+8198 -> 2034us
+ Frame arrived in -> 40937us
+8198 -> 3421us
+ Frame arrived in -> 20956us
+8198 -> 4145us
+ Frame arrived in -> 25280us
+8198 -> 5182us
+ Frame arrived in -> 28834us
+8198 -> 4744us
+ Frame arrived in -> 29080us
+8198 -> 3949us
+ Frame arrived in -> 29562us
+8198 -> 4313us
+ Frame arrived in -> 27072us
+8198 -> 5170us
+ Frame arrived in -> 28896us
+8198 -> 4573us
+ Frame arrived in -> 28635us
+8198 -> 4689us
+ Frame arrived in -> 28069us
+8198 -> 4803us
+ Frame arrived in -> 26203us
+8198 -> 6747us
+ Frame arrived in -> 29491us
+8198 -> 4234us
+ Frame arrived in -> 27602us
+8198 -> 5020us
+ Frame arrived in -> 28872us
+8198 -> 3948us
+ Frame arrived in -> 32770us
+8198 -> 1465us
+ Frame arrived in -> 31383us
+8198 -> 1453us
+ Frame arrived in -> 30618us
+8198 -> 1585us
+ Frame arrived in -> 29219us
+8198 -> 5400us
+ Frame arrived in -> 33720us
+8198 -> 2027us
+ Frame arrived in -> 30902us
+8198 -> 1576us
+ Frame arrived in -> 29418us
+8198 -> 1440us
+ Frame arrived in -> 29320us
+8198 -> 4304us
+ Frame arrived in -> 29845us
+8198 -> 3957us
+ Frame arrived in -> 28019us
+8198 -> 4402us
+ Frame arrived in -> 29125us
+8198 -> 4223us
+ Frame arrived in -> 24190us
+8198 -> 4502us
+ Frame arrived in -> 30640us
+8198 -> 10529us
+ Frame arrived in -> 22394us
+8198 -> 5033us
+ Frame arrived in -> 28649us
+8198 -> 1440us
+ Frame arrived in -> 30276us
+8198 -> 4463us
+ Frame arrived in -> 32498us
+8198 -> 9620us
+ Frame arrived in -> 26156us
+8198 -> 5960us
+ Frame arrived in -> 25567us
+8198 -> 3714us
+ Frame arrived in -> 23800us
+8198 -> 2691us
+ Frame arrived in -> 32007us
+8198 -> 1541us
+ Frame arrived in -> 31854us
+8198 -> 3741us
+ Frame arrived in -> 29819us
+8198 -> 5354us
+ Frame arrived in -> 28107us
+8198 -> 1202us
+ Frame arrived in -> 31128us
+8198 -> 3496us
+ Frame arrived in -> 29917us
+8198 -> 2917us
+ Frame arrived in -> 30648us
+8198 -> 3002us
+ Frame arrived in -> 30033us
+8198 -> 3060us
+ Frame arrived in -> 29884us
+8198 -> 3000us
+ Frame arrived in -> 30903us
+8198 -> 3276us
+ Frame arrived in -> 29439us
+8198 -> 3174us
+ Frame arrived in -> 29963us
+8198 -> 4906us
+ Frame arrived in -> 26400us
+8198 -> 2233us
+ Frame arrived in -> 31503us
+8198 -> 1744us
+ Frame arrived in -> 31783us
+8198 -> 1552us
+ Frame arrived in -> 31992us
+8198 -> 1329us
+ Frame arrived in -> 26465us
+8198 -> 6629us
+ Frame arrived in -> 32126us
+8198 -> 1228us
+ Frame arrived in -> 30563us
+8198 -> 1699us
+ Frame arrived in -> 31912us
+8198 -> 1660us
+ Frame arrived in -> 32197us
+8198 -> 1370us
+ Frame arrived in -> 30571us
+8198 -> 1793us
+ Frame arrived in -> 32453us
+8198 -> 1384us
+ Frame arrived in -> 30647us
+8198 -> 1480us
+ Frame arrived in -> 30269us
+8198 -> 1904us
+ Frame arrived in -> 33158us
+8198 -> 2145us
+ Frame arrived in -> 43511us
+8198 -> 14115us
+ Frame arrived in -> 13361us
+8198 -> 5994us
+ Frame arrived in -> 23776us
+8198 -> 1467us
+ Frame arrived in -> 26589us
+8198 -> 1728us
+ Frame arrived in -> 31830us
+8198 -> 1472us
+ Frame arrived in -> 33058us
+8198 -> 2601us
+ Frame arrived in -> 29926us
+8198 -> 1447us
+ Frame arrived in -> 31945us
+8198 -> 1575us
+ Frame arrived in -> 30755us
+8198 -> 1271us
+ Frame arrived in -> 31842us
+8198 -> 1241us
+ Frame arrived in -> 31656us
+8198 -> 1242us
+ Frame arrived in -> 31801us
+8198 -> 1275us
+ Frame arrived in -> 31955us
+8198 -> 1407us
+ Frame arrived in -> 32034us
+8198 -> 1242us
+ Frame arrived in -> 31892us
+8198 -> 1375us
+ Frame arrived in -> 31821us
+8198 -> 1242us
+ Frame arrived in -> 30793us
+8198 -> 2129us
+ Frame arrived in -> 32383us
+8198 -> 1397us
+ Frame arrived in -> 31117us
+8198 -> 1365us
+ Frame arrived in -> 32874us
+8198 -> 1439us
+ Frame arrived in -> 31321us
+8198 -> 1664us
+ Frame arrived in -> 31975us
+8198 -> 1553us
+ Frame arrived in -> 32034us
+8198 -> 1477us
+ Frame arrived in -> 31058us
+8198 -> 2452us
+ Frame arrived in -> 30693us
+8198 -> 1512us
+ Frame arrived in -> 31623us
+8198 -> 1508us
+ Frame arrived in -> 31245us
+8198 -> 1523us
+ Frame arrived in -> 25136us
+8198 -> 1643us
+ Frame arrived in -> 31642us
+8198 -> 1570us
+ Frame arrived in -> 31291us
+8198 -> 2242us
+ Frame arrived in -> 46024us
+8198 -> 14969us
+ Frame arrived in -> 15191us
+8198 -> 4612us
+ Frame arrived in -> 22017us
+8198 -> 1302us
+ Frame arrived in -> 24796us
+8198 -> 1766us
+ Frame arrived in -> 31408us
+8198 -> 1979us
+ Frame arrived in -> 31739us
+8198 -> 3270us
+ Frame arrived in -> 30786us
+8198 -> 3143us
+ Frame arrived in -> 30038us
+8198 -> 3053us
+ Frame arrived in -> 29838us
+8198 -> 2986us
+ Frame arrived in -> 29777us
+8198 -> 1374us
+ Frame arrived in -> 31716us
+8198 -> 2108us
+ Frame arrived in -> 30932us
+8198 -> 1735us
+ Frame arrived in -> 32510us
+8198 -> 1593us
+ Frame arrived in -> 30796us
+8198 -> 1739us
+ Frame arrived in -> 31777us
+8198 -> 2104us
+ Frame arrived in -> 32511us
+8198 -> 1437us
+ Frame arrived in -> 31118us
+8198 -> 1518us
+ Frame arrived in -> 31593us
+8198 -> 2420us
+ Frame arrived in -> 30394us
+8198 -> 1585us
+ Frame arrived in -> 31394us
+8198 -> 1643us
+ Frame arrived in -> 30944us
+8198 -> 2889us
+ Frame arrived in -> 32044us
+8198 -> 1524us
+ Frame arrived in -> 31714us
+8198 -> 1548us
+ Frame arrived in -> 30979us
+8198 -> 2492us
+ Frame arrived in -> 30305us
+8198 -> 1569us
+ Frame arrived in -> 31710us
+8198 -> 1578us
+ Frame arrived in -> 37189us
+8198 -> 1565us
+ Frame arrived in -> 21536us
+8198 -> 6505us
+ Frame arrived in -> 27995us
+8198 -> 6518us
+ Frame arrived in -> 26894us
+8198 -> 5121us
+ Frame arrived in -> 41849us
+8198 -> 3105us
+ Frame arrived in -> 21259us
+8198 -> 4046us
+ Frame arrived in -> 23130us
+8198 -> 5716us
+ Frame arrived in -> 25617us
+8198 -> 7397us
+ Frame arrived in -> 29795us
+8198 -> 3369us
+ Frame arrived in -> 30104us
+8198 -> 3372us
+ Frame arrived in -> 30243us
+8198 -> 3031us
+ Frame arrived in -> 28754us
+8198 -> 2903us
+ Frame arrived in -> 31124us
+8198 -> 1361us
+ Frame arrived in -> 32661us
+8198 -> 1444us
+ Frame arrived in -> 31708us
+8198 -> 1232us
+ Frame arrived in -> 31776us
+8198 -> 1337us
+ Frame arrived in -> 32014us
+8198 -> 1387us
+ Frame arrived in -> 31828us
+8198 -> 1441us
+ Frame arrived in -> 31737us
+8198 -> 3722us
+ Frame arrived in -> 33568us
+8198 -> 2947us
+ Frame arrived in -> 26641us
+8198 -> 1525us
+ Frame arrived in -> 31200us
+8198 -> 1564us
+ Frame arrived in -> 31579us
+8198 -> 1608us
+ Frame arrived in -> 31252us
+8198 -> 3646us
+ Frame arrived in -> 29826us
+8198 -> 3871us
+ Frame arrived in -> 30202us
+8198 -> 3666us
+ Frame arrived in -> 28202us
+8198 -> 4464us
+ Frame arrived in -> 29032us
+8198 -> 4114us
+ Frame arrived in -> 29349us
+8198 -> 3071us
+ Frame arrived in -> 28819us
+8198 -> 2066us
+ Frame arrived in -> 30832us
+8198 -> 8089us
+ Frame arrived in -> 24715us
+8198 -> 2066us
+ Frame arrived in -> 32178us
+8198 -> 1851us
+ Frame arrived in -> 31978us
+8198 -> 2587us
+ Frame arrived in -> 33488us
+8198 -> 2465us
+ Frame arrived in -> 23132us
+8198 -> 2047us
+ Frame arrived in -> 30250us
+8198 -> 3064us
+ Frame arrived in -> 36644us
+8198 -> 2957us
+ Frame arrived in -> 27379us
+8198 -> 2102us
+ Frame arrived in -> 31428us
+8198 -> 1611us
+ Frame arrived in -> 30332us
+8198 -> 2320us
+ Frame arrived in -> 32393us
+8198 -> 1412us
+ Frame arrived in -> 30693us
+8198 -> 2007us
+ Frame arrived in -> 32126us
+8198 -> 1498us
+ Frame arrived in -> 30878us
+8198 -> 1687us
+ Frame arrived in -> 31905us
+8198 -> 1491us
+ Frame arrived in -> 31378us
+8198 -> 1859us
+ Frame arrived in -> 29970us
+8198 -> 1966us
+ Frame arrived in -> 38926us
+8198 -> 1290us
+ Frame arrived in -> 27655us
+8198 -> 1684us
+ Frame arrived in -> 29110us
+8198 -> 2146us
+ Frame arrived in -> 31306us
+8198 -> 1828us
+ Frame arrived in -> 31005us
+8198 -> 2121us
+ Frame arrived in -> 31114us
+8198 -> 2200us
+ Frame arrived in -> 31444us
+8198 -> 1870us
+ Frame arrived in -> 30756us
+8198 -> 2306us
+ Frame arrived in -> 32978us
+8198 -> 1683us
+ Frame arrived in -> 29892us
+8198 -> 1953us
+ Frame arrived in -> 31111us
+8198 -> 1756us
+ Frame arrived in -> 27889us
+8198 -> 2162us
+ Frame arrived in -> 30946us
+8198 -> 8334us
+ Frame arrived in -> 26842us
+8198 -> 3287us
+ Frame arrived in -> 29883us
+8198 -> 2059us
+ Frame arrived in -> 28181us
+8198 -> 1817us
+ Frame arrived in -> 35403us
+8198 -> 2419us
+ Frame arrived in -> 24806us
+8198 -> 1169us
+ Frame arrived in -> 31901us
+8198 -> 2637us
+ Frame arrived in -> 32454us
+8198 -> 3712us
+ Frame arrived in -> 30507us
+8198 -> 1490us
+ Frame arrived in -> 31272us
+8198 -> 1849us
+ Frame arrived in -> 32256us
+8198 -> 1460us
+ Frame arrived in -> 32485us
+8198 -> 1386us
+ Frame arrived in -> 29283us
+8198 -> 1814us
+ Frame arrived in -> 33320us
+8198 -> 1518us
+ Frame arrived in -> 30217us
+8198 -> 1845us
+ Frame arrived in -> 31582us
+8198 -> 1976us
+ Frame arrived in -> 33417us
+8198 -> 1386us
+ Frame arrived in -> 29044us
+8198 -> 1874us
+ Frame arrived in -> 30014us
+8198 -> 2091us
+ Frame arrived in -> 32920us
+8198 -> 1808us
+ Frame arrived in -> 29765us
+8198 -> 1925us
+ Frame arrived in -> 31673us
+8198 -> 2018us
+ Frame arrived in -> 31873us
+8198 -> 1917us
+ Frame arrived in -> 32291us
+8198 -> 1768us
+ Frame arrived in -> 30647us
+8198 -> 1798us
+ Frame arrived in -> 32132us
+8198 -> 1954us
+ Frame arrived in -> 30736us
+8198 -> 1853us
+ Frame arrived in -> 30950us
+8198 -> 2403us
+ Frame arrived in -> 32140us
+8198 -> 1728us
+ Frame arrived in -> 31638us
+8198 -> 1635us
+ Frame arrived in -> 37053us
+8198 -> 1553us
+ Frame arrived in -> 22388us
+8198 -> 7397us
+ Frame arrived in -> 23689us
+8198 -> 7789us
+ Frame arrived in -> 27790us
+8198 -> 6785us
+ Frame arrived in -> 48151us
+8198 -> 12464us
+ Frame arrived in -> 13394us
+8198 -> 15682us
+ Frame arrived in -> 10992us
+8198 -> 3302us
+ Frame arrived in -> 21463us
+8198 -> 5282us
+ Frame arrived in -> 27869us
+8198 -> 5042us
+ Frame arrived in -> 26647us
+8198 -> 7401us
+ Frame arrived in -> 27712us
+8198 -> 5058us
+ Frame arrived in -> 32748us
+8198 -> 1683us
+ Frame arrived in -> 30167us
+8198 -> 1586us
+ Frame arrived in -> 31659us
+8198 -> 1294us
+ Frame arrived in -> 28168us
+8198 -> 2008us
+ Frame arrived in -> 31196us
+8198 -> 5668us
+ Frame arrived in -> 28923us
+8198 -> 2901us
+ Frame arrived in -> 31079us
+8198 -> 1386us
+ Frame arrived in -> 32330us
+8198 -> 1535us
+ Frame arrived in -> 36030us
+8198 -> 1330us
+ Frame arrived in -> 28478us
+8198 -> 1351us
+ Frame arrived in -> 29994us
+8198 -> 2042us
+ Frame arrived in -> 29554us
+8198 -> 5129us
+ Frame arrived in -> 28677us
+8198 -> 1769us
+ Frame arrived in -> 31618us
+8198 -> 4132us
+ Frame arrived in -> 28687us
+8198 -> 4037us
+ Frame arrived in -> 28899us
+8198 -> 4498us
+ Frame arrived in -> 29090us
+8198 -> 3901us
+ Frame arrived in -> 28511us
+8198 -> 4121us
+ Frame arrived in -> 29576us
+8198 -> 4034us
+ Frame arrived in -> 28926us
+8198 -> 4206us
+ Frame arrived in -> 27208us
+8198 -> 8303us
+ Frame arrived in -> 28165us
+8198 -> 1757us
+ Frame arrived in -> 32446us
+8198 -> 2118us
+ Frame arrived in -> 45169us
+8198 -> 18130us
+ Frame arrived in -> 14069us
+8198 -> 18490us
+ Frame arrived in -> 6904us
+8198 -> 3410us
+ Frame arrived in -> 23380us
+8198 -> 1537us
+ Frame arrived in -> 30360us
+8198 -> 1600us
+ Frame arrived in -> 32081us
+8198 -> 2234us
+ Frame arrived in -> 34576us
+8198 -> 1632us
+ Frame arrived in -> 23709us
+8198 -> 7131us
+ Frame arrived in -> 30169us
+8198 -> 1671us
+ Frame arrived in -> 30765us
+8198 -> 2770us
+ Frame arrived in -> 25326us
+8198 -> 6445us
+ Frame arrived in -> 28142us
+8198 -> 5768us
+ Frame arrived in -> 31064us
+8198 -> 1526us
+ Frame arrived in -> 31245us
+8198 -> 1531us
+ Frame arrived in -> 31781us
+8198 -> 1299us
+ Frame arrived in -> 32457us
+8198 -> 1307us
+ Frame arrived in -> 31183us
+8198 -> 1569us
+ Frame arrived in -> 30634us
+8198 -> 1863us
+ Frame arrived in -> 33052us
+8198 -> 2176us
+ Frame arrived in -> 29301us
+8198 -> 1737us
+ Frame arrived in -> 31298us
+8198 -> 1807us
+ Frame arrived in -> 31130us
+8198 -> 2014us
+ Frame arrived in -> 32857us
+8198 -> 2115us
+ Frame arrived in -> 30058us
+8198 -> 2144us
